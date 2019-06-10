@@ -1,6 +1,11 @@
 /*
 Apologies for all the comments.
 It's the only way I can keep track of everything.
+TO DO :
+Cheat detector
+Validate responses
+Let user set range
+Record number of tries
 */
 const readline = require("readline");
 const rl = readline.createInterface(process.stdin, process.stdout);
